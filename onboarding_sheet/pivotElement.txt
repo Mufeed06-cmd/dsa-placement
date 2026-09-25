@@ -1,0 +1,1 @@
+PivotElement is one of Problem in OnBoarding Sheet and the Approach is Simple return The Index Of an Element Whose Left and Right Sum is Same or Else Return -1. 
